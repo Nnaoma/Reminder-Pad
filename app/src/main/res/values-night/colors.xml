@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple">#FF6650A4</color>
+    <color name="purple_grey">#FF625B71</color>
+    <color name="pink">#FF7D5260</color>
+    <color name="gold">#FF90631C</color>
+    <color name="green_grey">#FF4B5959</color>
+    <color name="faded_green">#FF535E31</color>
+    <color name="green">#FF325E5C</color>
+</resources>
